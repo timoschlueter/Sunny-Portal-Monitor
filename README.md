@@ -40,6 +40,15 @@ This application uses the same backend as the WebApp and displays it in a native
 
 ![Screenshot of Sunny Portal Monitor](https://timoschlueter.github.io/sunny-portal-monitor/sunnyportalmonitor-screen2.png "Screenshot of Sunny Portal Monitor")
 
+
+CONTACT
+-------
+
+If you have any questions about this software, feel free to contact me. I won't bite.
+
+* Web: https://www.timo.in
+* Twitter: https://twitter.com/tmuuh
+
 LICENSE
 -------
 
