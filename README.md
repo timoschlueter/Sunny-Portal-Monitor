@@ -10,6 +10,12 @@ This applcation was developed using Visual Studio 2012 and compiles against .NET
 
 * [Json.NET by James Newton-King](http://james.newtonking.com/json) 
 
+
+DOWNLOAD
+-------
+
+__[A compiled version (not always up to date) can be found here.](https://timoschlueter.github.io/sunny-portal-monitor/sunny_portal_monitor.zip)__
+
 USAGE
 --------
 
